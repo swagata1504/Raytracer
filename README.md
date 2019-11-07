@@ -8,4 +8,4 @@ This is a program that was created for my Graphics class (CS410). Here I wrote c
 - Light.cc: Is a class that has the vectors that store the values of the position and emission
 - Makefile: Compiles project
 
-- After you are in the correct directory, type 'make' to compile and type './raytracer <driverFile>' to get an image.
+- After you are in the correct directory, type 'make' to compile and type './raytracer `<driverFile>`' to get an image.
